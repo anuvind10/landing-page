@@ -1,2 +1,2 @@
 # landing-page
-Creating a landing page for a website.
+A basic landing page.
